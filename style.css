@@ -1,0 +1,84 @@
+body{
+     font-family: 'Poppins', sans-serif;
+     margin: 0%;
+}
+h1{
+     font-size: 50px;
+}
+.text-color{
+     color: rgb(236, 111, 9);
+}
+.first-part{
+     display: flex;
+     margin-bottom: 100px;
+     margin-left: 20px;
+}
+.first-part img{
+     width: 80%;
+     margin-left: 15%;
+}
+.ancor-part{
+     text-decoration: none;
+     background-image: linear-gradient(rgb(224, 53, 10), tomato);
+     padding: 10px 20px;
+     border-radius: 20px;
+     color: white;
+     font-weight: 700;
+}
+.para-color{
+     color: gray;
+}
+.second-part{
+     display: flex;
+     background-image: url(images/7.png);
+     margin-bottom: 100px;
+}
+.second-part img{
+    width: 50%;
+    margin-left: 50%;
+}
+.second-part-text{
+     margin-left: 20%;
+}
+.third-part{
+     text-align: center;
+     margin-left: 20%;
+     margin-right: 20%;
+     margin-bottom: 50px;
+}
+.fourth-part{
+     display: flex;
+    margin-bottom: 80px; 
+}
+.fourth-part img{
+     width: 100%;
+}
+.fourth-part-box{
+     box-shadow: 10px 10px 30px gray;
+     width: 60%;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 15px;
+     border-radius: 25px;
+}
+.fifth-part{
+     display:flex;
+     box-shadow: 10px 10px 20px gray;
+     border-radius: 20px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding-bottom: 20px;
+     margin-bottom: 70px;
+}
+.fifth-part-text{
+     width: 50%;
+     margin-left: 10%;
+     margin-right: 10%;
+}
+footer{
+     text-align: center;
+     background-color: black;
+     color: white;
+     padding-bottom: 30px;
+     padding-top: 3px;
+}
